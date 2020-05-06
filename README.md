@@ -62,12 +62,12 @@ plugging in another data source
 
 1. Install and enable **Component Library** Drupal module
 *Required: https://www.drupal.org/project/components (See: Why use a custom 
-Twig namespace?)
+Twig namespace?)..ver wiki en este mismo repo ...ahi esta explicado...
 
 1. Clone this repo 
 `git clone git@github.com:left23/open_social_living_style_guide.git demo`
 into you custom theme folder (*Note: the theme name **Demo**). Set as default 
-theme
+theme......ver wiki en este mismo repo ...ahi esta explicado...
 
 1. Follow set up instructions here (from socialBlue theme): https://github.com/goalgorilla/open_social/blob/8.x-1.x/themes/socialblue/readme.md#getting-started-with-your-sub-theme
 
